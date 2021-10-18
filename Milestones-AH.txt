@@ -1,0 +1,20 @@
+
+Basic Outline of Project Steps:
+1. Learn C# to apply in Unity 
+2. Make prototype map 
+3. Implement basic RNG (randomized stats, damage, etc)
+4. Implement unique stages
+5. Implement "crude" AI
+6. Implement a proper inventory system
+7. Graphics (general UI, character models, etc)
+8. Add extra features such as sounds, abilities. Polish exisiting features as well
+
+Rubric:
+
+20 points - (Steps 2 & 3) Implement proper base of the game
+15 points - (Steps 4, 5, and 6) Added extra features that contribute to the complexity of the game 
+5 points - (Steps 7 & 8) Basic graphics and sounds 
+
+Time Log: 
+
+7 hours per week (10/11 - 10/18) - Worked on learning C# using Codeademy during the week 

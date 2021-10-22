@@ -19,3 +19,4 @@ Time Log:
 Spent 3-4 hours every weekend dedicated to practicing C# and learning the Unity Environment. 
 - Total = 9-12 hours. 
 - See Hackkerank-Practice folder for examples.
+- Note that more work than what's in the folder was done, but Hackerrank doesn't save every attempt (atleast I think) so the ones I have there are redone from scratch.

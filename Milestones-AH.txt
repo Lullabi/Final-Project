@@ -17,3 +17,4 @@ Rubric:
 Time Log: 
 
 7 hours per week (10/11 - 10/18) - Worked on learning C# using Codeademy during the week 
+Spent roughly three hours (11/1) dveeloping a working UI in unity with animation to prep for the battle system

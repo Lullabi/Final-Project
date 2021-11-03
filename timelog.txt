@@ -7,10 +7,10 @@ Spent 3-4 hours every weekend dedicated to practicing C# and learning the Unity 
 - See Hackkerank-Practice folder for examples.
 - Note that more work than what's in the folder was done, but Hackerrank doesn't save every attempt (atleast I think) so the ones I have there are redone from scratch.
 
-10/30 (1 hour) - Looked over various map-building tools in unity like grids, tilemaps, and sprites
+10/30 @ 4:10 A.M. (1 hour) - Looked over various map-building tools in unity like grids, tilemaps, and sprites
 - Just a solo meeting so no discussion, just looked at tutorials and all that.
 
-10/30 (1 hour) - Met with a friend to talk art ideas, drew concept art, and other concepts
+10/30 @ 2:03 A.M. (1 hour) - Met with a friend to talk art ideas, drew concept art, and other concepts
 - We talked enemy design, boss design, background design.
 - Landed on the idea that all backgrounds should look the same but with various color for efficiency sake
 - Enemies based on "RNG" games. (Coin enemy = coin flip, Dice enemy = dice roll, etc)
@@ -21,14 +21,14 @@ AJ Specific
 
 Group Meetings
 --------------
-10/23 (1 hour) - Meeting about general project ideas and availability scheduling
+10/23 @ 11:03 P.M. (1 hour) - Meeting about general project ideas and availability scheduling
 - We found that there was a pretty big conflict of issues in our schedules, but weekends typically worked for us.
 
-10/28 (2 hours) - Looked over unity assets and general info on making our game in unity
+10/28 @ 8:50 P.M. (2 hours) - Looked over unity assets and general info on making our game in unity
 - We brought in some sprites from unity and tested them out.
 - Loooked at a few tutorials online and discussed applications to our game.
 
-11/1 (3 hours) - Developed a unity animation to help with the battle system
+11/1 @ 10:03 P.M. (3 hours) - Developed a unity animation to help with the battle system
 - We took one of our free sprites and developed a somewhat shoddy scene.
 - This scene included animation and some background, but no real mechanics.
 - Discussed future additions of our battle engine.

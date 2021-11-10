@@ -32,3 +32,9 @@ Group Meetings
 - We took one of our free sprites and developed a somewhat shoddy scene.
 - This scene included animation and some background, but no real mechanics.
 - Discussed future additions of our battle engine.
+
+11/10 @ 8:32 P.M. (5 hours) - Developed our project to work on Unity Cloud Build
+- With the info gotten from Emrich, we got our student accounts set up.
+- This allowed us to use Unity Cloud Build to send our project to each other.
+- Unfortunately, during the process of making a repo, our project was lost.
+- Redesign planned for the near future, with the info we already have.

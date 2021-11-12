@@ -10,10 +10,15 @@ Spent 3-4 hours every weekend dedicated to practicing C# and learning the Unity 
 10/30 @ 4:10 A.M. (1 hour) - Looked over various map-building tools in unity like grids, tilemaps, and sprites
 - Just a solo meeting so no discussion, just looked at tutorials and all that.
 
-10/30 @ 2:03 A.M. (1 hour) - Met with a friend to talk art ideas, drew concept art, and other concepts
+10/31 @ 2:03 A.M. (1 hour) - Met with a friend to talk art ideas, drew concept art, and other concepts
 - We talked enemy design, boss design, background design.
 - Landed on the idea that all backgrounds should look the same but with various color for efficiency sake
 - Enemies based on "RNG" games. (Coin enemy = coin flip, Dice enemy = dice roll, etc)
+
+11/10 @ 8:12 P.M. (6 hours) - Fixed my stupid mistake (I deleted the project lol)
+- Luckily enough I remembered how we did most of the previous stuff and was able to add it all back pretty quickly
+- Not only that but I used some better assets (looks better IMO).
+- Added a couple of other scenes for other fights as well as a template for a title screen.
 
 AJ Specific
 ------------
@@ -33,8 +38,13 @@ Group Meetings
 - This scene included animation and some background, but no real mechanics.
 - Discussed future additions of our battle engine.
 
-11/10 @ 8:32 P.M. (5 hours) - Developed our project to work on Unity Cloud Build
+11/9 @ 8:32 P.M. (5 hours) - Developed our project to work on Unity Cloud Build
 - With the info gotten from Emrich, we got our student accounts set up.
 - This allowed us to use Unity Cloud Build to send our project to each other.
 - Unfortunately, during the process of making a repo, our project was lost.
 - Redesign planned for the near future, with the info we already have.
+
+11/11 @ 2:55 A.M. (2 hours) - Went over Calvin's fixes to the project
+- Talked about scheduling of the project.
+- Talked about map functionality.
+- Found more helpful resources.

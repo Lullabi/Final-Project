@@ -16,6 +16,7 @@ Spent 3-4 hours every weekend dedicated to practicing C# and learning the Unity 
 - Enemies based on "RNG" games. (Coin enemy = coin flip, Dice enemy = dice roll, etc)
 
 11/10 @ 8:12 P.M. (6 hours) - Fixed my stupid mistake (I deleted the project lol)
+- FIXED SOURCETREE
 - Luckily enough I remembered how we did most of the previous stuff and was able to add it all back pretty quickly
 - Not only that but I used some better assets (looks better IMO).
 - Added a couple of other scenes for other fights as well as a template for a title screen.

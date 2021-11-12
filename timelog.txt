@@ -49,3 +49,4 @@ Group Meetings
 - Talked about scheduling of the project.
 - Talked about map functionality.
 - Found more helpful resources.
+- Scrapped previous RNG enemy idea. 

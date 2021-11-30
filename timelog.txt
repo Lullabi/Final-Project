@@ -50,3 +50,19 @@ Group Meetings
 - Talked about map functionality.
 - Found more helpful resources.
 - Scrapped previous RNG enemy idea. 
+
+11/17 @ 10:11 P.M. (3 hours) - Worked on BYODS presentation, added spawning
+- Made the BYODS powerpoint.
+- Worked out enemy spawning.
+
+11/21 @ 5:59 P.M. (2 hours) - Worked on menus, attempted map making
+- Didn't really make too much progress on the map.
+- Now have a main menu that starts the game on a play press.
+- Menu looks kinda plain, updates to come in the future.
+
+11/26 @ 4:00 P.M. (2 hours) - True turn based combat
+- Created basic implementation of turn based combat.
+- Enemies can now die!!!
+- Enemies are no longer just prefabs pasted on the screen.
+- Basic map application.
+

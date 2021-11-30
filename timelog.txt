@@ -66,11 +66,17 @@ Group Meetings
 - Enemies are no longer just prefabs pasted on the screen.
 - Basic map application.
 
-11/27 @ 4:00 P.M. (4 hours) - True turn based combat
-- Updated battle engine to be more complex
-- Did away with scenes and made backgrounds prefabs
-- Data Structure implementation of rooms/kevels
+11/27 @ 7:15 P.M. (4 hours) - Scene Restructuring
+- Updated battle engine to be more complex.
+- Did away with scenes and made backgrounds prefabs.
+- Data Structure implementation of rooms/kevels.
 
-11/27 @ 4:00 P.M. (5 hours) - True turn based combat
-- Further changes to the battle engine
-- Add overlays to enemies to assist with queuing attacks
+11/28 @ 6:20 P.M. (5 hours) - RNG Creation
+- Updated tiles and enemies to be based off of RNG instead of preset values.
+- Finished creation of the randomized map.
+- Game can now officially end and begin once certain conditions are met. (loss, victory)
+
+11/29 @ 10:22 P.M. (9 hours) - Debugging
+- Literally just debugged.
+- Forever.
+- Can't believe it's over.

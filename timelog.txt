@@ -76,7 +76,12 @@ Group Meetings
 - Finished creation of the randomized map.
 - Game can now officially end and begin once certain conditions are met. (loss, victory)
 
-11/29 @ 10:22 P.M. (9 hours) - Debugging
+11/29 @ 10:22 P.M. (12 hours) - Debugging
 - Literally just debugged.
 - Forever.
 - Can't believe it's over.
+
+11/30 @ 10:22 P.M. (3 hours) - Revisions and Final Changes
+- UI Edits
+- QOL Additions
+- ETC
